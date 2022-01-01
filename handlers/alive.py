@@ -36,7 +36,7 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/b5e55f4cd31bd1da2abd3.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-BOT FAST LIKE FAST AS FUCK](@TEAM_VAMPPIRES)
+BOT FAST LIKE FAST AS FUCK](@TEAM_VAMPIRES)
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [NANDAN_VAMPIRE](https://t.me/NANDAN_VAMPIRE)
 ┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://t.me/VAMPIRES_OFFICIAL)
