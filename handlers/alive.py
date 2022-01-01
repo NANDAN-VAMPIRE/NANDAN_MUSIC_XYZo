@@ -34,12 +34,12 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/3809ee0cf6a7567e86a5c.jpg",
+        photo=f"https://telegra.ph/file/b5e55f4cd31bd1da2abd3.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-BOT FAST LIKE FAST AS FUCK](https://t.me/AKG_ANTHESM)
+BOT FAST LIKE FAST AS FUCK](@TEAM_VAMPPIRES)
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [AKG_ANTHESM](https://t.me/Caden_OP)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://anthesm_chat_box)
+┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [NANDAN_VAMPIRE](https://t.me/NANDAN_VAMPIRE)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://t.me/VAMPIRES_OFFICIAL)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
