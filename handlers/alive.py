@@ -38,8 +38,8 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 BOT FAST LIKE FAST AS FUCK](@TEAM_VAMPIRES)
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [NANDAN_VAMPIRE](https://t.me/NANDAN_VAMPIRE)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [bakchodi point](https://t.me/VAMPIRES_OFFICIAL)
+┣★ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 : [𝗡𝗔𝗡𝗗𝗔𝗡 𝗩𝗔𝗠𝗣𝗜𝗥𝗘](https://t.me/NANDAN_VAMPIRE)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 : [�𝗕𝗔𝗖𝗞𝗖𝗛𝗢𝗗𝗜 𝗣𝗢𝗜𝗡�𝗧 ](https://t.me/VAMPIRES_OFFICIAL)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
@@ -58,13 +58,13 @@ BOT FAST LIKE FAST AS FUCK](@TEAM_VAMPIRES)
 @Client.on_message(commandpro(["/start", "/alive", "legend"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/3809ee0cf6a7567e86a5c.jpg",
+        photo=f"https://telegra.ph/file/b5e55f4cd31bd1da2abd3.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "JOIN FOR BAKCHODI", url=f"https://t.me/anthesm_chat_box")
+                        "JOIN FOR BAKCHODI", url=f"https://t.me/TEAM_VAMPIRES")
                 ]
             ]
         ),
